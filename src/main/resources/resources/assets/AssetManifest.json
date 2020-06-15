@@ -1,0 +1,98 @@
+{
+  "packages/cupertino_icons/assets/CupertinoIcons.ttf": [
+    "packages/cupertino_icons/assets/CupertinoIcons.ttf"
+  ],
+  "imgs/care.png": [
+    "imgs/care.png"
+  ],
+  "imgs/collect.png": [
+    "imgs/collect.png"
+  ],
+  "imgs/discuss.png": [
+    "imgs/discuss.png"
+  ],
+  "imgs/exit.png": [
+    "imgs/exit.png"
+  ],
+  "imgs/fankui.png": [
+    "imgs/fankui.png"
+  ],
+  "imgs/find.png": [
+    "imgs/find.png"
+  ],
+  "imgs/find_select.png": [
+    "imgs/find_select.png"
+  ],
+  "imgs/fuli.png": [
+    "imgs/fuli.png"
+  ],
+  "imgs/history.png": [
+    "imgs/history.png"
+  ],
+  "imgs/img_default.png": [
+    "imgs/img_default.png"
+  ],
+  "imgs/index1.png": [
+    "imgs/index1.png"
+  ],
+  "imgs/index1_select.png": [
+    "imgs/index1_select.png"
+  ],
+  "imgs/level-1.png": [
+    "imgs/level-1.png"
+  ],
+  "imgs/level-2.png": [
+    "imgs/level-2.png"
+  ],
+  "imgs/level.png": [
+    "imgs/level.png"
+  ],
+  "imgs/me.png": [
+    "imgs/me.png"
+  ],
+  "imgs/me_select.png": [
+    "imgs/me_select.png"
+  ],
+  "imgs/msg.png": [
+    "imgs/msg.png"
+  ],
+  "imgs/msg_select.png": [
+    "imgs/msg_select.png"
+  ],
+  "imgs/night.png": [
+    "imgs/night.png"
+  ],
+  "packages/open_iconic_flutter/assets/open-iconic.woff": [
+    "packages/open_iconic_flutter/assets/open-iconic.woff"
+  ],
+  "imgs/order.png": [
+    "imgs/order.png"
+  ],
+  "imgs/room.png": [
+    "imgs/room.png"
+  ],
+  "imgs/set.png": [
+    "imgs/set.png"
+  ],
+  "imgs/shop.png": [
+    "imgs/shop.png"
+  ],
+  "imgs/sun.png": [
+    "imgs/sun.png"
+  ],
+  "imgs/team.png": [
+    "imgs/team.png"
+  ],
+  "imgs/user_default.png": [
+    "imgs/user_default.png"
+  ],
+  "imgs/version.png": [
+    "imgs/version.png"
+  ],
+  "imgs/video.png": [
+    "imgs/video.png"
+  ],
+  "imgs/video_select.png": [
+    "imgs/video_select.png"
+  ]
+}
