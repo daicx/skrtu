@@ -2,17 +2,35 @@
   "packages/cupertino_icons/assets/CupertinoIcons.ttf": [
     "packages/cupertino_icons/assets/CupertinoIcons.ttf"
   ],
+  "imgs/answer.png": [
+    "imgs/answer.png"
+  ],
+  "imgs/artical.png": [
+    "imgs/artical.png"
+  ],
   "imgs/care.png": [
     "imgs/care.png"
   ],
   "imgs/collect.png": [
     "imgs/collect.png"
   ],
+  "packages/flutter_showcase/assets/dart.png": [
+    "packages/flutter_showcase/assets/dart.png"
+  ],
   "imgs/discuss.png": [
     "imgs/discuss.png"
   ],
   "imgs/exit.png": [
     "imgs/exit.png"
+  ],
+  "packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": [
+    "packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf"
+  ],
+  "packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": [
+    "packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf"
+  ],
+  "packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": [
+    "packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf"
   ],
   "imgs/fankui.png": [
     "imgs/fankui.png"
@@ -23,11 +41,29 @@
   "imgs/find_select.png": [
     "imgs/find_select.png"
   ],
+  "packages/flutter_showcase/assets/flutter.png": [
+    "packages/flutter_showcase/assets/flutter.png"
+  ],
+  "packages/flutter_showcase/assets/flutter_black.png": [
+    "packages/flutter_showcase/assets/flutter_black.png"
+  ],
+  "packages/flutter_showcase/assets/flutter_original.png": [
+    "packages/flutter_showcase/assets/flutter_original.png"
+  ],
+  "packages/flutter_showcase/assets/flutter_white.png": [
+    "packages/flutter_showcase/assets/flutter_white.png"
+  ],
   "imgs/fuli.png": [
     "imgs/fuli.png"
   ],
+  "packages/flutter_showcase/assets/github.png": [
+    "packages/flutter_showcase/assets/github.png"
+  ],
   "imgs/history.png": [
     "imgs/history.png"
+  ],
+  "imgs/idea.png": [
+    "imgs/idea.png"
   ],
   "imgs/img_default.png": [
     "imgs/img_default.png"
@@ -67,6 +103,9 @@
   ],
   "imgs/order.png": [
     "imgs/order.png"
+  ],
+  "imgs/put_video.png": [
+    "imgs/put_video.png"
   ],
   "imgs/room.png": [
     "imgs/room.png"
