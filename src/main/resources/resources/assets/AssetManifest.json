@@ -83,6 +83,9 @@
   "imgs/level.png": [
     "imgs/level.png"
   ],
+  "imgs/link.png": [
+    "imgs/link.png"
+  ],
   "imgs/me.png": [
     "imgs/me.png"
   ],
@@ -107,8 +110,14 @@
   "imgs/put_video.png": [
     "imgs/put_video.png"
   ],
+  "imgs/qq.png": [
+    "imgs/qq.png"
+  ],
   "imgs/room.png": [
     "imgs/room.png"
+  ],
+  "imgs/send_friend.png": [
+    "imgs/send_friend.png"
   ],
   "imgs/set.png": [
     "imgs/set.png"
@@ -133,5 +142,8 @@
   ],
   "imgs/video_select.png": [
     "imgs/video_select.png"
+  ],
+  "imgs/wechat.png": [
+    "imgs/wechat.png"
   ]
 }
