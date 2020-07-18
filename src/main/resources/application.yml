@@ -1,4 +1,4 @@
 server:
-  port: 443
+  port: 8081
   tomcat:
     basedir: /var/tmp/
